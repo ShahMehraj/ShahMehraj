@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahmehraj" alt="shahmehraj" /></a> </p>
 
-- 🔭 I’m currently working on [mcsquare]([https://github.com/ShahMehraj/Annual-Report-Parser.git](https://github.com/ShahMehraj/mcsquare.git))
+- 🔭 I’m currently working on [mcsquare](https://github.com/ShahMehraj/mcsquare.git)
 
 - 🌱 I’m currently learning **Large Language Models, DevOps Engineering, and Cloud Engineering**
 
